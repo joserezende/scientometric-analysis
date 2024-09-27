@@ -1,6 +1,7 @@
-# Appendices - SBSeg2024
+# Appendices - Energy Theft Scientometric Analysis
 
-This repository contains all files generated during the scientometric study with the objective to elaborate the article **"Scientometric Analysis of Publications on Household Electricity Theft and Energy Consumption Load Profiling in a Smart Grid Networks Context: Insights from Web of Science and Scopus Databases"**, for the The Brazilian Symposium on Information and Computational Systems Security (SBSeg2024).
+This repository contains all files generated during the scientometric study with the objective to elaborate the article **"A Scientometric Analysis of Publications on Household
+Electricity Theft and Energy Consumption Load Profiling in a Smart Grid Networks Context"**.
 
 * Appendix A - Complete information for the 478 articles;
 * Appendix B - Annual production of articles;
