@@ -12,4 +12,5 @@ Electricity Theft and Energy Consumption Load Profiling in a Smart Grid Networks
 * Appendix G - Relevant journals according Bradford's Law;
 * Appendix H - Journal's production over time;
 * Appendix I - Collaboration between countries;
-* Appendix J - Collaboration between authors.
+* Appendix J - SCP, MCP, total citations, production and average article citations for each country;
+* Appendix K - Collaboration between authors.
